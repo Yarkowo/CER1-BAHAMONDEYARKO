@@ -1,0 +1,30 @@
+#inicio, #galeria, #contacto{
+    margin-bottom: 3vw;
+}
+
+
+#galeria .card{
+    margin: 1vw;
+}
+
+#contacto{
+    background-color: #f25252;
+    text-align: center;
+}
+#contacto #separaContacto{
+    height: 0.5vw;
+    background-color: #fae2e2;
+}
+#contacto{
+    color:  #fae2e2;
+}
+.icon-link{
+    margin: 0.5vw;
+
+    color:  #fae2e2;
+}
+.icon-link:hover{
+    color: #f6c270;
+}
+
+
